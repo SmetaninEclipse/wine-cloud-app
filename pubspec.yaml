@@ -13,5 +13,9 @@ dependencies:
   esp_smartconfig: ^1.1.11
   network_info_plus: ^3.0.1
 
+  # Firebase
+  firebase_core: ^2.4.1
+  firebase_crashlytics: ^3.0.11
+
 flutter:
   uses-material-design: true

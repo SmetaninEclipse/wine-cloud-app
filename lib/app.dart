@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:wine_cloud_app/features/esp_connector.dart';
 
 class WineCloudApp extends StatefulWidget {
   const WineCloudApp({super.key});
@@ -10,6 +11,8 @@ class WineCloudApp extends StatefulWidget {
 class _WineCloudAppState extends State<WineCloudApp> {
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp();
+    return const MaterialApp(
+      home: LaunchPage(),
+    );
   }
 }

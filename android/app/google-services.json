@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171209439012",
+    "project_id": "wine-cloud-test-1134",
+    "storage_bucket": "wine-cloud-test-1134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171209439012:android:44a44eec59f2ad6f3f25b1",
+        "android_client_info": {
+          "package_name": "com.github.des1yny.wine_cloud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171209439012-116iv77ea57kso1nnm2ntrfcgt64jc08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUcatAFKC0ya9dVvByFLHbWyBgG40vy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171209439012-116iv77ea57kso1nnm2ntrfcgt64jc08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
