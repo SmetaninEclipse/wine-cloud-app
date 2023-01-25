@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.github.des1yny.wine_cloud_app">
    <application
-        android:label="wine_cloud_app"
+        android:label="Wine Cloud"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
