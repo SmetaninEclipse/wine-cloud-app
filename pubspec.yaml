@@ -1,0 +1,16 @@
+name: wine_cloud_app
+description: IoT cloud application.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  esp_smartconfig: ^1.1.11
+
+flutter:
+  uses-material-design: true
