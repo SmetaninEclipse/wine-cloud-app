@@ -45,6 +45,10 @@
 	<false/>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Must be enabled to work with Iot</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Used in collecting Wi-Fi data</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 </dict>
